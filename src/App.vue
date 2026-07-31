@@ -14,6 +14,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
   <main>
     <TheWelcome />
+    <div>User</div>
   </main>
 </template>
 
